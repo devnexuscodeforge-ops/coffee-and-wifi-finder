@@ -1,0 +1,65 @@
+body {
+                    margin: 0;
+                    font-family: Arial, sans-serif;
+}
+
+.home-page {
+                    background: #222831;
+                    color: white;
+                    height: 100vh;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+}
+
+.home-box {
+                    text-align: center;
+}
+
+.home-box h1 {
+                    font-size: 70px;
+                    font-weight: bold;
+                    margin-bottom: 20px;
+}
+
+.home-box p {
+                    font-size: 22px;
+                    margin-bottom: 30px;
+}
+
+.home-box a {
+                    margin: 10px;
+}
+
+.add-page {
+                    background-color: #2b2b2b;
+                    color: white;
+                    min-height: 100vh;
+}
+
+.cafes-page {
+                    background-color: #2b2b2b;
+                    color: white;
+                    min-height: 100vh;
+}
+
+.form-control {
+                    margin-top: 5px;
+}
+
+.error-text {
+                    color: red;
+                    font-weight: bold;
+}
+
+a {
+                    color: #ffc107;
+}
+
+a:hover {
+                    color: #ffdd57;
+}
+
+table {
+                    margin-top: 20px;
+}
